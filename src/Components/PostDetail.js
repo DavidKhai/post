@@ -37,6 +37,7 @@ class PostDetail extends Component {
             })
     
             const commentInfoData = arrayComment;
+                  console.log('12345678999');      
             arrayData.push({
               id: id,
               title: title,
